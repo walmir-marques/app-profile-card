@@ -27,8 +27,7 @@ h1 {
 }
 
 .avatar {
-  width: 442px;
-  height: 600px;
+  width: 100%;
   display: block;
 }
 
